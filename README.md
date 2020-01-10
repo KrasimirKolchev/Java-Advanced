@@ -9,8 +9,7 @@ Java Advanced module: (https://softuni.bg/trainings/2447/js-advanced-september-2
   * Workshop: <span> [Lab](https://github.com/KrasimirKolchev/Java-Advanced/tree/master/workshop/SmartArray) <span/><span> [Exercises](https://github.com/KrasimirKolchev/Java-Advanced/tree/master/workshop/LinkedList) <span/>
   * Generics: <span> [Lab](https://github.com/KrasimirKolchev/Java-Advanced/tree/master/Generics) <span/><span> [Exercises](https://github.com/KrasimirKolchev/Java-Advanced/tree/master/GenericsEx) <span/>
   * Iterators and comparators: <span> [Lab](https://github.com/KrasimirKolchev/Java-Advanced/tree/master/IteratorsAndComparators) <span/><span> [Exercises](https://github.com/KrasimirKolchev/Java-Advanced/tree/master/IteratorsAndComparatorsEx) <span/>
-  * : <span> [Lab]() <span/><span> [Exercises]() <span/>
-  * : <span> [Lab]() <span/><span> [Exercises]() <span/>
-  * : <span> [Lab]() <span/><span> [Exercises]() <span/>
+  * [ExamPrep](https://github.com/KrasimirKolchev/Java-Advanced/tree/master/ExamPrep)
+  * [Exam](https://github.com/KrasimirKolchev/Java-Advanced/tree/master/Exam)
 
   
