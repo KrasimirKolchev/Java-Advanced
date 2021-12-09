@@ -2,7 +2,7 @@
 
 Java Advanced course: (https://softuni.bg/trainings/2350/java-advanced-may-2019)
 <br/>
-[SoftUni Certificate](https://softuni.bg/certificates/certificates/converttoimage/74981?code=0a668ffb)
+[SoftUni Certificate](https://softuni.bg/certificates/details/67996/5eb4a949)
 <br/>
   * Stacks and Queuse: <span> [Lab](https://github.com/KrasimirKolchev/Java-Advanced/tree/master/StackAndQueue) <span/><span> [Exercises](https://github.com/KrasimirKolchev/Java-Advanced/tree/master/StackAndQueueEx) <span/>
   * Multidimentional arrays: <span> [Lab](https://github.com/KrasimirKolchev/Java-Advanced/tree/master/MultidimentionalArrays) <span/><span> [Exercises](https://github.com/KrasimirKolchev/Java-Advanced/tree/master/MultidimentionalArraysEx) <span/>
